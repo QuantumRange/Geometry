@@ -1,0 +1,9 @@
+name: Geometry
+version: '${project.version}'
+main: de.quantumrange.geometry.Geometry
+api-version: 1.17
+authors: [ QuantumRange, Luecx ]
+
+commands:
+  createMesh:
+    description: Give you important tools
